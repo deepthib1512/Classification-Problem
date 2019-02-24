@@ -8,3 +8,5 @@ Dataset:
     
 Classification model:
   - Developed the model using sklearn python library
+  - The developed model has an accuracy of 96%, and provided good results
+  - It is observed from the graph that, people above the age group of 40 are more likely to take an action for the email sent and below the     age of 40 are less likely to react to the emails.
